@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey I'm Nate
 
-<!--
-**NateTKim/NateTKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance + Computer Science at UW-Madison ('28). 
+I like to build fintech products using both my CS skills and Financial knowledge.
 
-Here are some ideas to get you started:
+**Building**
+- [Orin](https://readorin.com): plain-English breakdowns of SEC 10-K/10-Q filings for retail investors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experience**
+- SWE Intern @ Alphaeon Credit: React + Ruby on Rails, healthcare patient financing
+- SWE Intern @ Business-Software: React + PHP
+- President, CodeForGood
+- Capitalfund (UW's student-managed quant fund)
+
+**Stack:** TypeScript · Next.js · React · Ruby on Rails · Tailwind · Supabase/Postgres · Docker · Swift
+
+[LinkedIn](https://linkedin.com/in/natekim0) · [Email](mailto:nathanaelkim11@gmail.com)
